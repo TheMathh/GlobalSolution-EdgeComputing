@@ -244,6 +244,14 @@ Vídeo de apresentação do funcionamento, implementação, dificuldades encontr
 https://www.youtube.com/watch?v=BzMlSgrXaRM
 ```
 
+### 🧪 Simulação Wokwi
+
+Circuito e simulação do projeto no ambiente virtual:
+
+```
+https://wokwi.com/projects/466389322384455681
+```
+
 
 ---
 
