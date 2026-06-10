@@ -173,7 +173,7 @@ e instalar.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/TheMathh/OrbitalWatch-GS-1ESPQ
+git clone https://github.com/TheMathh/GlobalSolution-EdgeComputing
 ```
 
 
@@ -234,12 +234,12 @@ O código contém:
 
 ---
 
-## 🎥 Demonstração
+## 🎥 Demonstração do Projeto
 
-O vídeo de apresentação do projeto está disponível no repositório:
+Vídeo de apresentação do funcionamento, implementação, dificuldades encontradas e soluções:
 
-```
-video/OrbitalWatch-apresentacao.mp4
+🔗 Link do vídeo:
+https://www.youtube.com/watch?v=BzMlSgrXaRM
 ```
 
 
